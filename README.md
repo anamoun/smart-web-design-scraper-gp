@@ -1,4 +1,4 @@
-# Smart Web Design Scraper (Graduation Project)
+# Smart Web Design Scraper
 
 The archived repo of "Smart Web Design Scraper" graduation project.
 
